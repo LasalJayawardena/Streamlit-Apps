@@ -1,1 +1,1 @@
-## This Repo contains all apps madeof Streamlit
+## Apps made with help of Streamlit
