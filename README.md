@@ -6,3 +6,4 @@
 4) Crypto_Currecy_Explorer
 5) DNA_Nucleotide_Counter
 6) FDA_Drug_Finder
+7) Iris_Classifier
