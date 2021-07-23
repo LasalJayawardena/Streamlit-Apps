@@ -14,3 +14,4 @@
 12) Palmer_Penguins_Classifier
 13) SP500_index_Explorer
 14) Sentimental_Analysis_Dashboard
+15) Stock_Prices_Visualizaton
