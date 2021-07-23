@@ -11,3 +11,4 @@
 9) Molecule_Descriptor_App
 10) NBA_Player_Explorer
 11) NFL_Player_Explorer
+12) Palmer_Penguins_Classifier
