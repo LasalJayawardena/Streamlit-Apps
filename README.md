@@ -10,3 +10,4 @@
 8) Model_Predictions_Performance_App
 9) Molecule_Descriptor_App
 10) NBA_Player_Explorer
+11) NFL_Player_Explorer
