@@ -16,3 +16,4 @@
 14) Sentimental_Analysis_Dashboard
 15) Stock_Prices_Visualizaton
 16) Basic_ML_Dataset_Explorer_App
+17) CMC_Predictor
