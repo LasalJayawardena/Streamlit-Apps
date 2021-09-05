@@ -18,3 +18,4 @@
 16) Basic_ML_Dataset_Explorer_App
 17) CMC_Predictor
 18) CSS_Shape_Generator
+19) Email_Extractor_App
