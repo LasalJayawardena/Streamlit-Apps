@@ -22,3 +22,4 @@
 20) Fake_Data_Generator
 21) FreCog_Face_Detector_App
 22) Github_Job_Search_App
+23) Movie_DB_App
