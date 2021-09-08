@@ -24,3 +24,4 @@
 22) Github_Job_Search_App
 23) Movie_DB_App
 24) NLP_Tokenizer_NER_App
+25) Name_Gender_Classifier_App
