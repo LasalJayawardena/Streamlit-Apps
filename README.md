@@ -23,3 +23,4 @@
 21) FreCog_Face_Detector_App
 22) Github_Job_Search_App
 23) Movie_DB_App
+24) NLP_Tokenizer_NER_App
