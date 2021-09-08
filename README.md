@@ -21,3 +21,4 @@
 19) Email_Extractor_App
 20) Fake_Data_Generator
 21) FreCog_Face_Detector_App
+22) Github_Job_Search_App
