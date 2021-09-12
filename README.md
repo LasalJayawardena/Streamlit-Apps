@@ -1,6 +1,6 @@
 ## Apps made with help of Streamlit
 
-##
+## Technologies
 
 ### Projects:
 1) Motor_Accidents_Dashboard
