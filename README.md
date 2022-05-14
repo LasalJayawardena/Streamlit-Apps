@@ -28,3 +28,4 @@
 23) Movie_DB_App
 24) NLP_Tokenizer_NER_App
 25) Name_Gender_Classifier_App
+26) US_Car_Accident_Severity_Prediction
